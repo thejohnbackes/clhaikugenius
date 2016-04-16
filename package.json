@@ -1,0 +1,14 @@
+{
+  "name": "clhaiku",
+  "version": "1.0.0",
+  "description": "command line haikus",
+  "main": "haiku.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "word2vec": "^0.9.2"
+  }
+}
